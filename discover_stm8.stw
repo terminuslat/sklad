@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=sleep_cnt.stp
+Dependencies=
+[Options]
+ActiveProject=sleep_cnt
+ActiveConfig=Debug
+AddSortedElements=1
